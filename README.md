@@ -1,1 +1,1 @@
-# ai-resources
+- [Gurubase](https://github.com/Gurubase/gurubase)
